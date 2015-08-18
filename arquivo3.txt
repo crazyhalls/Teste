@@ -1,0 +1,7 @@
+for(Character ch : list){
+syso("blabla")
+}
+@test
+public void teste(){
+true
+}
